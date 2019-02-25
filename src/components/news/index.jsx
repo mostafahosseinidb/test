@@ -25,7 +25,7 @@ class News extends Component {
 
 
                         <div>
-                            <Route exact path="/" component={CateguryNews} />
+                            <Route exact path="/test" component={CateguryNews} />
                             <Route path="/OtherNews" component={OtherNews} />
                         </div>
                     </div>
