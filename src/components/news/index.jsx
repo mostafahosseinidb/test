@@ -14,7 +14,7 @@ class News extends Component {
                     <div>
                         <ul>
                             <li>
-                                <NavLink to="/">CateguryNews</NavLink>
+                                <NavLink to="/test">CateguryNews</NavLink>
                             </li>
 
                             <li>
