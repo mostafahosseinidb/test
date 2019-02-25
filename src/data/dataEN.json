@@ -1,0 +1,36 @@
+{
+    "menu": {
+        "id": "1",
+        "menu_item": [
+            {
+                "value": "News"
+            },
+            {
+                "value": "About Us"
+            },
+            {
+                "value": "Contact Us"
+            },
+            {
+                "value": "Work with Us"
+            }
+        ]
+    },
+    "categury": {
+        "id": "2",
+        "cat_item": [
+            {
+                "value": "FUNNY",
+                "catId": "1"
+            },
+            {
+                "value": "تخته ای",
+                "catId": "2"
+            },
+            {
+                "value": "تماس با ما",
+                "catId": "3"
+            }
+        ]
+    }
+}
