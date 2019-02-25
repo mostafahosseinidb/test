@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/test/static/media/IRANSansWeb_Bold.d44408d0.woff"
   },
   {
-    "revision": "aa629e38a8c297509efd",
+    "revision": "b05a5c184d4a84622fad",
     "url": "/test/static/css/main.8d7d1c49.chunk.css"
   },
   {
@@ -64,8 +64,12 @@ self.__precacheManifest = [
     "url": "/test/static/media/IRANSansWeb_Light.aac7a640.woff"
   },
   {
-    "revision": "aa629e38a8c297509efd",
-    "url": "/test/static/js/main.aa629e38.chunk.js"
+    "revision": "b05a5c184d4a84622fad",
+    "url": "/test/static/js/main.b05a5c18.chunk.js"
+  },
+  {
+    "revision": "244a401eb43afb0fe739f8dcd8530ae4",
+    "url": "/test/static/media/IRANSansWeb.244a401e.ttf"
   },
   {
     "revision": "70a5f97c18c45e8ef620a374be61c6c3",
@@ -74,10 +78,6 @@ self.__precacheManifest = [
   {
     "revision": "9d7efb918cab94704068d84361d3f898",
     "url": "/test/static/media/IRANSansWeb_Light.9d7efb91.eot"
-  },
-  {
-    "revision": "244a401eb43afb0fe739f8dcd8530ae4",
-    "url": "/test/static/media/IRANSansWeb.244a401e.ttf"
   },
   {
     "revision": "a65cbf91ec2b253357f7621900ef29a4",
@@ -100,20 +100,20 @@ self.__precacheManifest = [
     "url": "/test/static/media/robotoregular.a28928ed.eot"
   },
   {
-    "revision": "ac3f799d5bbaf5196fab15ab8de8431c",
-    "url": "/test/static/media/robotoregular.ac3f799d.ttf"
-  },
-  {
     "revision": "7b5fb88f12bec8143f00e21bc3222124",
     "url": "/test/static/media/robotolight.7b5fb88f.ttf"
+  },
+  {
+    "revision": "d329cc8b34667f114a95422aaad1b063",
+    "url": "/test/static/media/robotobold.d329cc8b.ttf"
   },
   {
     "revision": "261c61936b688786f2f329e815214c1b",
     "url": "/test/static/media/robotobold.261c6193.eot"
   },
   {
-    "revision": "d329cc8b34667f114a95422aaad1b063",
-    "url": "/test/static/media/robotobold.d329cc8b.ttf"
+    "revision": "ac3f799d5bbaf5196fab15ab8de8431c",
+    "url": "/test/static/media/robotoregular.ac3f799d.ttf"
   },
   {
     "revision": "c1fee5f2fd79b2dd5ef602daefd6fe98",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/test/static/media/news3.1e8058ce.jpg"
   },
   {
-    "revision": "f7a4befa5c48ec17de5968db310e3b77",
+    "revision": "aea15bf6b815f32c6f4628accc69ea1c",
     "url": "/test/index.html"
   }
 ];
