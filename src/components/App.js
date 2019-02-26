@@ -6,7 +6,7 @@ import MainMenu from "./MainMenu";
 import News from "./news"
 import NewsContainer from "../countainers/news.countainers";
 
-import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
+import { BrowserRouter as Router,HashRouter , Route, NavLink } from "react-router-dom";
 class App extends Component {
 
   componentDidMount = async () => {
@@ -20,14 +20,14 @@ class App extends Component {
   render() {
     return (
       <Provider>
-      <Router>
+      <HashRouter  basename="">
         <div className="container">
           <Header />
           <TopNews />
           <MainMenu />
           <News />
         </div>
-        </Router>
+        </HashRouter>
       </Provider>
     );
   }

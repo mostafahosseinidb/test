@@ -14,7 +14,7 @@ class News extends Component {
                     <div>
                         <ul>
                             <li>
-                                <NavLink to={`${this.props.match.url}#test`}>CateguryNews</NavLink>
+                                <NavLink to="/test">CateguryNews</NavLink>
                             </li>
 
                             <li>
@@ -25,8 +25,8 @@ class News extends Component {
 
 
                         <div>
-                            <Route exact path="#test" component={CateguryNews} />
-                            <Route path="#OtherNews" component={OtherNews} />
+                            <Route exact path="/test" component={CateguryNews} />
+                            <Route path="/OtherNews" component={OtherNews} />
                         </div>
                     </div>
                

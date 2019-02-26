@@ -11,7 +11,7 @@ const Menu = props => {
     return (
         <ul>
             <li>
-            <NavLink  to={`${this.props.match.url}#OtherNews`}>OtherNews</NavLink>
+            <NavLink to="/OtherNews">OtherNews</NavLink>
             </li>
             <Subscribe to={[NewsCountainer]}>
 
