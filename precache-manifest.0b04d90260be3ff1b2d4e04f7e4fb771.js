@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "75bbd3d2379271601fdc3114c5bec64a",
-    "url": "/test/static/media/robotobold.75bbd3d2.woff"
+    "revision": "d44408d0941f077f60b1306e1331e806",
+    "url": "/test/static/media/IRANSansWeb_Bold.d44408d0.woff"
   },
   {
-    "revision": "0ef0bf3b27928cad53f8",
-    "url": "/test/static/css/main.8d7d1c49.chunk.css"
+    "revision": "775d00e224743fe560c9",
+    "url": "/test/static/css/main.fed846a6.chunk.css"
   },
   {
     "revision": "a03dc12cda14a16444a4",
     "url": "/test/static/js/runtime~main.a03dc12c.js"
   },
   {
-    "revision": "76b8638bd18f17af9665",
-    "url": "/test/static/js/2.76b8638b.chunk.js"
+    "revision": "7045c683421d5625a721",
+    "url": "/test/static/js/2.7045c683.chunk.js"
   },
   {
     "revision": "ccabf309497698464842397f1319b345",
@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/test/static/media/IRANSansWeb_Light.7c207019.woff2"
   },
   {
+    "revision": "2f6f164c3e1f1329cc658b3c725bfd98",
+    "url": "/test/static/media/IRANSansWeb_Bold.2f6f164c.woff2"
+  },
+  {
     "revision": "f9b095429c04a6a7f3bfe25d6c90b21c",
     "url": "/test/static/media/robotoregular.f9b09542.woff"
   },
@@ -48,8 +52,8 @@ self.__precacheManifest = [
     "url": "/test/static/media/robotolight.ae0cb41c.woff"
   },
   {
-    "revision": "2f6f164c3e1f1329cc658b3c725bfd98",
-    "url": "/test/static/media/IRANSansWeb_Bold.2f6f164c.woff2"
+    "revision": "75bbd3d2379271601fdc3114c5bec64a",
+    "url": "/test/static/media/robotobold.75bbd3d2.woff"
   },
   {
     "revision": "50f4bba2f37081daeca8c423abdced8b",
@@ -60,20 +64,12 @@ self.__precacheManifest = [
     "url": "/test/static/media/IRANSansWeb_Light.aac7a640.woff"
   },
   {
-    "revision": "d44408d0941f077f60b1306e1331e806",
-    "url": "/test/static/media/IRANSansWeb_Bold.d44408d0.woff"
-  },
-  {
-    "revision": "0ef0bf3b27928cad53f8",
-    "url": "/test/static/js/main.0ef0bf3b.chunk.js"
+    "revision": "775d00e224743fe560c9",
+    "url": "/test/static/js/main.775d00e2.chunk.js"
   },
   {
     "revision": "70a5f97c18c45e8ef620a374be61c6c3",
     "url": "/test/static/media/IRANSansWeb.70a5f97c.eot"
-  },
-  {
-    "revision": "9d7efb918cab94704068d84361d3f898",
-    "url": "/test/static/media/IRANSansWeb_Light.9d7efb91.eot"
   },
   {
     "revision": "244a401eb43afb0fe739f8dcd8530ae4",
@@ -84,24 +80,16 @@ self.__precacheManifest = [
     "url": "/test/static/media/IRANSansWeb_Bold.a65cbf91.eot"
   },
   {
+    "revision": "9d7efb918cab94704068d84361d3f898",
+    "url": "/test/static/media/IRANSansWeb_Light.9d7efb91.eot"
+  },
+  {
     "revision": "9471804b0f92127716fabbbb2c6647e5",
     "url": "/test/static/media/IRANSansWeb_Bold.9471804b.ttf"
   },
   {
     "revision": "e5b2acaef933a97fa3fb026d8ee73d46",
     "url": "/test/static/media/IRANSansWeb_Light.e5b2acae.ttf"
-  },
-  {
-    "revision": "08cf97f4c6e0bdda1a7c548b54c1f0b2",
-    "url": "/test/static/media/robotolight.08cf97f4.eot"
-  },
-  {
-    "revision": "d329cc8b34667f114a95422aaad1b063",
-    "url": "/test/static/media/robotobold.d329cc8b.ttf"
-  },
-  {
-    "revision": "ac3f799d5bbaf5196fab15ab8de8431c",
-    "url": "/test/static/media/robotoregular.ac3f799d.ttf"
   },
   {
     "revision": "a28928edbd1711773bad9e1eadfb785f",
@@ -112,8 +100,20 @@ self.__precacheManifest = [
     "url": "/test/static/media/robotolight.7b5fb88f.ttf"
   },
   {
+    "revision": "08cf97f4c6e0bdda1a7c548b54c1f0b2",
+    "url": "/test/static/media/robotolight.08cf97f4.eot"
+  },
+  {
+    "revision": "ac3f799d5bbaf5196fab15ab8de8431c",
+    "url": "/test/static/media/robotoregular.ac3f799d.ttf"
+  },
+  {
     "revision": "261c61936b688786f2f329e815214c1b",
     "url": "/test/static/media/robotobold.261c6193.eot"
+  },
+  {
+    "revision": "d329cc8b34667f114a95422aaad1b063",
+    "url": "/test/static/media/robotobold.d329cc8b.ttf"
   },
   {
     "revision": "c1fee5f2fd79b2dd5ef602daefd6fe98",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/test/static/media/news3.1e8058ce.jpg"
   },
   {
-    "revision": "37032eba1351129fa49cdf0ca150726c",
+    "revision": "a696f994a513ef3079939554a3ad9070",
     "url": "/test/index.html"
   }
 ];
