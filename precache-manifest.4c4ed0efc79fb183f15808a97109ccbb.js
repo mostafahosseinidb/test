@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "d44408d0941f077f60b1306e1331e806",
-    "url": "/test/static/media/IRANSansWeb_Bold.d44408d0.woff"
+    "revision": "75bbd3d2379271601fdc3114c5bec64a",
+    "url": "/test/static/media/robotobold.75bbd3d2.woff"
   },
   {
-    "revision": "4887d1e2864cc85a4550",
+    "revision": "0ef0bf3b27928cad53f8",
     "url": "/test/static/css/main.8d7d1c49.chunk.css"
   },
   {
@@ -40,10 +40,6 @@ self.__precacheManifest = [
     "url": "/test/static/media/IRANSansWeb_Light.7c207019.woff2"
   },
   {
-    "revision": "2f6f164c3e1f1329cc658b3c725bfd98",
-    "url": "/test/static/media/IRANSansWeb_Bold.2f6f164c.woff2"
-  },
-  {
     "revision": "f9b095429c04a6a7f3bfe25d6c90b21c",
     "url": "/test/static/media/robotoregular.f9b09542.woff"
   },
@@ -52,8 +48,8 @@ self.__precacheManifest = [
     "url": "/test/static/media/robotolight.ae0cb41c.woff"
   },
   {
-    "revision": "75bbd3d2379271601fdc3114c5bec64a",
-    "url": "/test/static/media/robotobold.75bbd3d2.woff"
+    "revision": "2f6f164c3e1f1329cc658b3c725bfd98",
+    "url": "/test/static/media/IRANSansWeb_Bold.2f6f164c.woff2"
   },
   {
     "revision": "50f4bba2f37081daeca8c423abdced8b",
@@ -64,20 +60,24 @@ self.__precacheManifest = [
     "url": "/test/static/media/IRANSansWeb_Light.aac7a640.woff"
   },
   {
-    "revision": "4887d1e2864cc85a4550",
-    "url": "/test/static/js/main.4887d1e2.chunk.js"
+    "revision": "d44408d0941f077f60b1306e1331e806",
+    "url": "/test/static/media/IRANSansWeb_Bold.d44408d0.woff"
+  },
+  {
+    "revision": "0ef0bf3b27928cad53f8",
+    "url": "/test/static/js/main.0ef0bf3b.chunk.js"
   },
   {
     "revision": "70a5f97c18c45e8ef620a374be61c6c3",
     "url": "/test/static/media/IRANSansWeb.70a5f97c.eot"
   },
   {
-    "revision": "244a401eb43afb0fe739f8dcd8530ae4",
-    "url": "/test/static/media/IRANSansWeb.244a401e.ttf"
-  },
-  {
     "revision": "9d7efb918cab94704068d84361d3f898",
     "url": "/test/static/media/IRANSansWeb_Light.9d7efb91.eot"
+  },
+  {
+    "revision": "244a401eb43afb0fe739f8dcd8530ae4",
+    "url": "/test/static/media/IRANSansWeb.244a401e.ttf"
   },
   {
     "revision": "a65cbf91ec2b253357f7621900ef29a4",
@@ -92,16 +92,12 @@ self.__precacheManifest = [
     "url": "/test/static/media/IRANSansWeb_Light.e5b2acae.ttf"
   },
   {
-    "revision": "261c61936b688786f2f329e815214c1b",
-    "url": "/test/static/media/robotobold.261c6193.eot"
+    "revision": "08cf97f4c6e0bdda1a7c548b54c1f0b2",
+    "url": "/test/static/media/robotolight.08cf97f4.eot"
   },
   {
     "revision": "d329cc8b34667f114a95422aaad1b063",
     "url": "/test/static/media/robotobold.d329cc8b.ttf"
-  },
-  {
-    "revision": "08cf97f4c6e0bdda1a7c548b54c1f0b2",
-    "url": "/test/static/media/robotolight.08cf97f4.eot"
   },
   {
     "revision": "ac3f799d5bbaf5196fab15ab8de8431c",
@@ -116,6 +112,10 @@ self.__precacheManifest = [
     "url": "/test/static/media/robotolight.7b5fb88f.ttf"
   },
   {
+    "revision": "261c61936b688786f2f329e815214c1b",
+    "url": "/test/static/media/robotobold.261c6193.eot"
+  },
+  {
     "revision": "c1fee5f2fd79b2dd5ef602daefd6fe98",
     "url": "/test/static/media/news1.c1fee5f2.jpg"
   },
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/test/static/media/news3.1e8058ce.jpg"
   },
   {
-    "revision": "356232f009002cda311013253cc67b7b",
+    "revision": "37032eba1351129fa49cdf0ca150726c",
     "url": "/test/index.html"
   }
 ];
